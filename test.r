@@ -4,3 +4,5 @@ get_yesterday <- function() {
 }
 
 #gjør en liten endring her
+
+#Jeg skriver også noe tekst her! 
